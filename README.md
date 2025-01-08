@@ -7,15 +7,27 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Web Development**
+ ✨ Through internships and hands-on experience, I've gained extensive expertise in:
+💻 Web Development & UI/UX Design
+📊 Data Analysis (Power BI, SQL)
+🔒 Cybersecurity
 
-💬 Ask me about **HTML, CSS, SQL, JAVASCRIPT... or anything **
+🎨 Technical Skills:
 
-⚡ Fun fact **Teaching something to someone else can be an effective way to learn it yourself.**
+🖌️ HTML, CSS, JavaScript, PHP
+🖼️ Figma, Adobe Photoshop
+🐍 Python
+📊 Power BI, SQL
+🛡️ Cybersecurity
+🌟 Projects I've Worked On:
 
+🎥 Animated Website
+🛍️ E-commerce Website
+🚀 Landing Page
+💼 Personal Portfolio
+💡 I thrive on challenges and am always looking for opportunities to grow, innovate, and achieve greatness.
+
+📩 Let’s connect and GROW together!
  </div>
  
 <div align="center"> 
